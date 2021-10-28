@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1087496728546",
+    "project_id": "qr-scan-papa",
+    "storage_bucket": "qr-scan-papa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087496728546:android:8dbaff440aa6d385b5d3bb",
+        "android_client_info": {
+          "package_name": "com.example.qrscan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087496728546-6558gv25pid7aenq0odj9budsh0k3m15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVmyO7P22mqwEd2ZMABXodkcY9eJNgLjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087496728546-6558gv25pid7aenq0odj9budsh0k3m15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
